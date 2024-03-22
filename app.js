@@ -1,5 +1,9 @@
 let listaDeNumerosSorteados = [];
+<<<<<<< HEAD
 let numeroLimite = 50;
+=======
+let numeroLimite = 10;
+>>>>>>> parent of 2dd3225 (MENSAGEM)
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
